@@ -23,6 +23,8 @@ apis:
       - type: Documentation
         url: https://heliumtrades.com/mcp-page/
 common:
+  - type: DomainSecurity
+    url: security/helium-heliumtrades-domain-security.yml
   - type: Website
     url: https://heliumtrades.com/mcp-page/
   - type: PublicAPIsListing
