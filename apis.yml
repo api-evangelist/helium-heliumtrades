@@ -1,4 +1,16 @@
 aid: helium-heliumtrades
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/helium-heliumtrades.png
 name: Helium
 description: "News with media bias scoring, balanced news synthesis, live market data, AI options pricing"
 url: https://heliumtrades.com/mcp-page/
