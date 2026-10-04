@@ -39,7 +39,6 @@ apis:
   - name: Helium
     description: "News with media bias scoring, balanced news synthesis, live market data, AI options pricing"
     humanURL: https://heliumtrades.com/mcp-page/
-    baseURL: https://heliumtrades.com/mcp-page/
     tags:
       - Finance
     properties:
