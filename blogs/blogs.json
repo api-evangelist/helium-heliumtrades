@@ -1,0 +1,21 @@
+{
+  "repo": "helium-heliumtrades",
+  "feeds": [
+    {
+      "source": "https://heliumtrades.com/news/",
+      "feed_url": "https://heliumtrades.com/news/",
+      "title": "",
+      "saved": 0,
+      "method": "none"
+    },
+    {
+      "source": "https://heliumtrades.com/feed/",
+      "feed_url": "https://heliumtrades.com/feed/",
+      "title": "",
+      "saved": 45,
+      "method": "feed"
+    }
+  ],
+  "post_count": 45,
+  "fetched": "2026-10-10T13:15:00Z"
+}
